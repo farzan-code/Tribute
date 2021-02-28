@@ -57,11 +57,21 @@ span{
   border-style: solid;
   border-color: black;
 }
+#tribute-link1{
+  text-align: center;
+  text-align: center;
+background-color: black;
+color: antiquewhite;
+margin:auto;
+border-style: solid;
+border-color: black;
+}
 #image{
     position: relative;
   max-width: 100%;
   width: 100in;
  margin-bottom: 0%;
+ display: block;
 }
 li {
     margin: 5px 0px 5px 0px;
